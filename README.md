@@ -19,3 +19,10 @@ Github'da yarattığım bir repository'yi silerek visual studio üzerinden tekra
         https://www.reitix.com/merak/github-da-repository-nasil-silinir/de04df36
 
 ```
+```
+    Otomasyon
+    
+      https://www.zoet.com.tr/urunler/
+      
+      http://www.demopad.com/products/
+```
